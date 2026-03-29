@@ -21,3 +21,12 @@ Scikit-learn
 ## Use case
 
 Can be used in fraud detection, security monitoring, and risk analysis systems.
+## Output
+
+- Classifies users into Normal or High Risk  
+- Helps identify abnormal behavior patterns  
+
+## Learning
+
+- Learned how anomaly detection works  
+- Understood how ML can be applied to real-world problems  
